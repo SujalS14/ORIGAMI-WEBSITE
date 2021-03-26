@@ -1,0 +1,11 @@
+h1 {
+    color : green;
+    border: 10px; 
+    background-color: dimgrey;
+}
+body {
+    background-color : rgb(37, 153, 192);
+}
+ol,ul {
+    font-family : 'Lucida Sans';
+}
